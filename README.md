@@ -24,6 +24,6 @@ npm test
    Duration  993ms (transform 58ms, setup 167ms, import 71ms, tests 51ms, environment 568ms)
 ```
 
-![alt text](https://github.com/ыздше73/selsup_test/blob/main/tests.jpg?raw=true)
+![alt text](https://github.com/split73/selsup_test/blob/main/tests.jpg?raw=true)
 
 
